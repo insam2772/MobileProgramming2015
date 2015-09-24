@@ -1,6 +1,11 @@
 package kr.ac.kookmin.shape;
 
-public abstract class Shape {
+public abstract class Shape{
         protected Point center;
-//Implement here
+        
+        public Point getCenter(){
+        	return center;
+        }
+        public abstract Rectangle getBounds();
+        public abstract void draw(Graphics g);
 }
