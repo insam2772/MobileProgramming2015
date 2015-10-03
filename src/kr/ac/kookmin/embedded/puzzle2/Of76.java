@@ -1,4 +1,4 @@
-package kr.ac.embedded.kookmin.puzzle2;
+package kr.ac.kookmin.embedded.puzzle2;
 
 interface Nose {
 	public int iMethod();

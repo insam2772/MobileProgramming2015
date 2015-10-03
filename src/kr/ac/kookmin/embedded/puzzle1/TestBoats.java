@@ -1,4 +1,4 @@
-package kr.ac.embedded.kookmin.puzzle1;
+package kr.ac.kookmin.embedded.puzzle1;
 
 public class TestBoats {
 	public static void main(String[] args) {
